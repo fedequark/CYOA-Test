@@ -32,7 +32,7 @@ const StoryGame = () => {
     <div className="min-h-screen bg-background text-foreground p-6 flex flex-col items-center justify-center">
       <div className="max-w-4xl w-full space-y-8">
         <h1 className="text-3xl font-bold text-center mb-8 text-primary">
-          The Enchanted Crossroads
+          Ciberincidente Falopa
         </h1>
         
         <div className={`story-text ${isTransitioning ? 'opacity-0' : 'fade-enter'}`}>
